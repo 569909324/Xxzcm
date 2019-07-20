@@ -24,7 +24,7 @@ namespace ConsoleApp3
                     Console.WriteLine($"太大了，还剩{reduceTimes }次");
 
                 } 
-
+                //123
                 else  
                 {
                     Console.WriteLine($"太小了，还剩{reduceTimes }次");
